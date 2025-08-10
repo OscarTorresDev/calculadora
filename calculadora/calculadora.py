@@ -28,7 +28,7 @@ def div(a, b):
 # Añadimos potencia
 def power(a, b):
     return a ** b
-=
+
 # Menú interactivo con todas las operaciones
 def main():
     print("Calculadora v6 — SUMA, RESTA, MULT, DIV, POTENCIA")
